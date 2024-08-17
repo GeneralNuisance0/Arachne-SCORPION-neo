@@ -1,7 +1,8 @@
 # Arachne-SCORPION-neo
 The "SCORPION neo" voicebank for UTAU/free virtual singer Arachne.
---------------------------------------------
+-------------------------------
 Credits: <br/>
+----------------
 Voice: General Nuisance <br/>
 Oto: General Nuisance<br/>
 Distribution: General Nuisance<br/>
@@ -9,9 +10,10 @@ Reclist: Zurui-san<br/>
 Illust: Ricecristpy<br/>
 Icon: Ricecristpy<br/>
 Website: https://generalnuisance.info<br/>
----------------------------------------------
+
 
 General Information:<br/>
+----------------------------
 Arachne -SCORPION neo- is a multipitch 7-mora VCV Japanese bank. The file names and aliases are all in kana, with a few exceptions (see below).<br/>
 The bank contains end breaths, beginning breaths, vocal fry, 4 breath samples, English rs, ls, vs glottal stops, and dental fricatives (the "th" and "dh" sounds in English).<br/>
 The bank is recorded at A3, C4, F4, A4, and C5.<br/>
@@ -35,3 +37,4 @@ To activate beginning exhale + inhale use exin x<br/>
 To activate vocal fry attacks and releases, use 'x or x'<br/>
 To activate breaths, use br1, br2, br3 or br4. br1 is a shallow exhale, br2 is a shallow inhale, br3 is a deep exhale, br4 is a deep inhale. It is reccomended that you do NOT use these in UTAU and instead use them in your DAW.<br/>
 With the exception of br1, br2, br3, and br4, all extras are recorded at all 5 pitches. Including the vocal fry.<br/>
+Recomended resampler: Moresampler, fresamp11, f2resamp
