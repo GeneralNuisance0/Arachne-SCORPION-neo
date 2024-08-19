@@ -4,7 +4,6 @@ The "SCORPION neo" voicebank for UTAU/free virtual singer Arachne.
 License: https://generalnuisance.info/termsofuse
 
 
--------------------------------
 Credits: <br/>
 ----------------
 Voice: General Nuisance <br/>
